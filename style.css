@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+  .hero-image {
+    background-image: url("images/outrun.png");
+    background-color: #cccccc;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border-radius: 0;
+    border-bottom: 10px solid rgb(29, 228, 201);
+  }
